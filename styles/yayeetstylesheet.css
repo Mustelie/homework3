@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+body{
+    font-family: "Quicksand", sans-serif;
+    background-image: url(images/pidgeon-background.jpg); 
+    background-color: #dddddd;
+}
+
+h1 {
+	font-size: 2em;
+	height: 1.5;
+	color: #c12258;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+a {
+	font-size: 18px;
+	color: #d12258;
+	text-decoration: underline;
+}
+
+:focus {
+	border:1px solid red;
+}
+
