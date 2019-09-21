@@ -2,8 +2,7 @@
 
 body{
     font-family: "Quicksand", sans-serif;
-    background-image: url(images/pidgeon-background.jpg); 
-    background-color: #dddddd;
+    background: #dddddd url('../images/pidgeon-background.jpg') no-repeat fixed center;
 }
 
 h1 {
