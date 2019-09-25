@@ -30,7 +30,7 @@ a {
 table {
 	border: 2px solid black;
 	border-radius: 10px;
-	border-spacing: 0px
+	border-spacing: 0px;
 }
 thead {
 	min-width: 150px;
